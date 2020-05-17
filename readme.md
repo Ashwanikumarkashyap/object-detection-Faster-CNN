@@ -1,9 +1,9 @@
-# Object Detection with Faster CNN
+# Object Detection with Faster RCNN
 
 
 ##  Goals
 
-This project a work of fiction written from the perspective of a 2020 researcher traveling back in time to mid 2013 to share some 2020 xNNbased application ideas - Object Detection using Faster CNN. The references to credit the actual inventors of the various ideas is provided at the end
+This project a work of fiction written from the perspective of a 2020 researcher traveling back in time to mid 2013 to share some 2020 xNNbased application ideas - Object Detection using Faster RCNN. The references to credit the actual inventors of the various ideas is provided at the end
 
 
 ##  Setup
